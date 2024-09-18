@@ -1,1 +1,1 @@
-# Flux_image_Gen
+#YouFlux - Fine tune your own model
